@@ -8,7 +8,7 @@
 .box{
     width: 200px;
     height: 200px;
-    border: 20px solid purple;
+    border: 2px solid purple;
 
 }
 
@@ -24,7 +24,7 @@
 .container2{
     display: flex;
     flex-direction: column;
-    background-color: salmon;
+    background-color: bisque;
     padding: 20px;
     margin: 20px;
     border: 5px solid black;

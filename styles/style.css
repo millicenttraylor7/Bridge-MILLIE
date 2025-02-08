@@ -6,9 +6,15 @@
 }
 
 .box{
+    display: flex;
+    margin: 20px;
+    padding: 20px;
     width: 200px;
     height: 200px;
     border: 2px solid purple;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 
 }
 
@@ -28,7 +34,7 @@
     padding: 20px;
     margin: 20px;
     border: 5px solid black;
-    justify-content: center;
+    justify-content: center;   
     align-items: center;
     text-align: center;
 }
